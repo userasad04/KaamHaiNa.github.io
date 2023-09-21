@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
         telugu: {
             name: "పేరు:",
             age: "పట్టు:",
-            occupation: "పేరు:",
+            occupation: "వృత్తి:",
             experience: "నివేదిక సంవత్సరాలు:",
             currentCity: "ప్రస్తుత నగరం:",
             interestedCity: "ఆసక్తి కలదు నగరం:",
