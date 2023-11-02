@@ -3,7 +3,7 @@ function submitForm() {
   const form = document.getElementById('query-form'); // Replace 'query-form' with your form ID
   const formData = new FormData(form);
 
-  fetch("https://script.google.com/macros/s/AKfycbysuMoiGAtJ4_TX7tXen7HPaPMt26AFQCImoxKdV54/dev", {
+  fetch("https://script.google.com/macros/s/AKfycbww_bWLrUVeTHOl4SUfxJe3zn2dV-KEmfEYg4cKFHPCNSZN4_6UmDMuOT5Pjzt6F_0y/exec", {
       method: "POST",
       body: formData,
   })
