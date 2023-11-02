@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
         english: {
             name: "Name:",
             age: "Age:",
+            number: "Phone Number:",
             occupation: "Occupation:",
             experience: "Years of Experience:",
             currentCity: "Current City:",
@@ -27,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         hindi: {
             name: "नाम:",
             age: "आयु:",
+            number: "फ़ोन नंबर:",
             occupation: "व्यवसाय:",
             experience: "अनुभव के साल:",
             currentCity: "वर्तमान शहर:",
@@ -44,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
         telugu: {
             name: "పేరు:",
             age: "పట్టు:",
+            number: "ఫోను నంబరు:",
             occupation: "వృత్తి:",
             experience: "నివేదిక సంవత్సరాలు:",
             currentCity: "ప్రస్తుత నగరం:",
